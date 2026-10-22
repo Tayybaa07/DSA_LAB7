@@ -1,0 +1,14 @@
+# Executables & Compiled Binaries
+*.out
+*.exe
+*.o
+*.obj
+*.app
+*.dylib
+
+# Visual Studio / Ubuntu build artifacts
+.vs/
+.vscode/
+build/
+bin/
+obj/
